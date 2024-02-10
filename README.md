@@ -1,6 +1,6 @@
 # Original repo
 
-[Mycroft/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio)  - Not mentained
+[Mycroft/mimic-recording-studio](https://github.com/MycroftAI/mimic-recording-studio)  - Not maintained
 
 
 # Mimic Recording Studio
