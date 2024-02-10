@@ -111,6 +111,7 @@ The first execution of `docker-compose up` will take a while as this command wil
 
 * `cd frontend/`
 * `npm install`, alternatively `yarn install`
+* `npm build`, alternatively `yarn build`
 * `npm start`, alternatively `yarn start`
 
 ### Coming soon!

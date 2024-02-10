@@ -23,7 +23,7 @@ yarn-error.log*
 
 
 # my ignores
-*.json
+package-lock.json
 db/
 audio_files/
 tmp/
